@@ -29,6 +29,6 @@ A fork is a copy of a repository. Forking a repository allows you to freely expe
 # Tutorial
 change directory to your development directory. ("cd ~" cd to home directory in shell)
 
-git config --global user.email “<youremail@example.com>”
-git config --global user.name “<your name>”
-git clone git@github.com:akhlaing/ucs-tgi-innovation.git
+> git config --global user.email “<youremail@example.com>”
+> git config --global user.name “<your name>”
+> git clone git@github.com:akhlaing/ucs-tgi-innovation.git
