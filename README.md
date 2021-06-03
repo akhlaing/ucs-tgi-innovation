@@ -31,6 +31,6 @@ change directory to your development directory. ("cd ~" cd to home directory in 
 
 > git config --global user.email “<youremail@example.com>”
 > 
-> git config --global user.name “<your name>”
+> git config --global user.name “`<your name>`”
 > 
 > git clone git@github.com:akhlaing/ucs-tgi-innovation.git
