@@ -13,20 +13,24 @@ Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com 
 ## Emphasis
 
 `*This text will be italic*`
+
 *This text will be italic*
+
 `_This will also be italic_`
+
 _This will also be italic_
 
 `**This text will be bold**`
+
 **This text will be bold**
+
 `__This will also be bold__`
+
 __This will also be bold__
 
 `_You **can** combine them_`
 
 ## Lists
-
-### Unordered
 
 ` * Item 1`
 `  * Item 2`
@@ -38,19 +42,6 @@ __This will also be bold__
   * Item 2a
   * Item 2b
   
-### Ordered
-
-` 1. Item 1`
-` 1. Item 2`
-` 1. Item 3`
-`    1. Item 3a`
-`    1. Item 3b `
-  
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
   
 ## Images
 
