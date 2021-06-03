@@ -33,8 +33,11 @@ __This will also be bold__
 ## Lists
 
 ` * Item 1`
+
 `  * Item 2`
+
 `   * Item 2a`
+
 `   * Item 2b`
 
  * Item 1
@@ -59,6 +62,7 @@ __This will also be bold__
 ## Blockquotes
 
 `> Education is a commitment to excellence`
+
 `>  in Teaching and Learning.`
 
 The Master Said:
