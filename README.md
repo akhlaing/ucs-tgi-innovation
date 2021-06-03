@@ -1,6 +1,6 @@
 # ucs-tgi-innovation
-Introduction to Git
-innovation lab for UCSTaunggyi
+Introduction to Git.
+_Innovation lab for UCSTaunggyi_
 
 Version Control and basic of DevOp
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. It become essential, because it help collaboration and manage archieve. 
